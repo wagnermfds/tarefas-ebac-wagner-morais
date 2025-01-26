@@ -1,0 +1,49 @@
+1 - Abrir os olhos
+2 - Verificar hora no relógio de pulso, são 7 horas?
+  
+    - Não
+
+    1 - Volto a dormir
+   
+    - Sim
+
+1 - Levanto da cama
+3 - Arrumo a cama e o lençol
+4 - Abro o armário
+5 - Pego uma roupa
+6 - Saio do quarto
+7 - Entro no banheiro
+8 - Penduro a roupa em um cabide disponível
+9 - Tem toalha estendida?
+   
+    - Não
+
+    1 - Saio do banheiro
+    2 - Volto para o quarto
+    3 - Abro o armário
+    4 - Pego uma toalha
+    5 - Saio do quarto
+    6 - Volto para o banheiro
+    7 - Penduro a toalha em um cabide disponível
+   
+    - Sim
+
+10 - Pego a escova de dentes e coloco pasta de dente
+11 - Abro a torneira girando-a em 360°
+12 - Escovo meus dentes
+13 - Limpo a escova com a água da torneira
+14 - Fecho a torneira
+15 - Tiro a roupa que estou vestindo e coloco em um cesto ou cabide
+16 - Entro no box do banheiro
+17 - Fecho o box do banheiro após entrar
+18 - Abro o chuveiro
+19 - Me molho, passo o sabão e após me enxáguo
+20 - Saio do box
+21 - Pego uma toalha pendurada no cabide de banheiro
+22 - Me enxugo passando a toalha no corpo
+23 - Penduro novamente a toalha para secar
+24 - Pego a roupa pendurada
+25 - Visto a roupa
+26 - Saio do banheiro
+27 - Finalizo minha rotina de acordar
+
